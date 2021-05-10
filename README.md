@@ -1,4 +1,5 @@
 # hellow-world
 Zadanie
-Немного о себе 
-Я написал немного о себе
+Tyt bydet text
+No poka ego net
+
